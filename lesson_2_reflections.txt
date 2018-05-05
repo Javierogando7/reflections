@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git create a directory to store metadata about the repository.
+Because we need to know have control of the versions
+
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+In the staging area are only the files that are going
+to be commited while in the working area are all the
+files in the depository.
+In the staging area you can add only the files that
+had been change.
